@@ -34,7 +34,7 @@ You can view you saved books here or you can search again.
 
 # Project Links 
 - [Heroku](https://github.com/michelaqyteza/Book-Search)
--[Github Book Search](https://obscure-waters-70910.herokuapp.com/)
+- [Github Book Search](https://obscure-waters-70910.herokuapp.com/)
 
 # Contact 
 
