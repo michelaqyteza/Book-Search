@@ -33,8 +33,8 @@ You can view you saved books here or you can search again.
 ![navbar](https://github.com/michelaqyteza/Book-Search/blob/main/img/navsc.png?raw=true)
 
 # Project Links 
-- [Heroku](https://github.com/michelaqyteza/Book-Search)
-- [Github Book Search](https://obscure-waters-70910.herokuapp.com/)
+- [Github Book Search](https://github.com/michelaqyteza/Book-Search)
+- [Heroku ](https://obscure-waters-70910.herokuapp.com/)
 
 # Contact 
 
